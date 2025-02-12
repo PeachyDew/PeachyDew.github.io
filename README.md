@@ -138,7 +138,6 @@ In this last phase, we created our Knowledge graphs. For example, following is t
 
 ![image](karma-research.jpg)
 
+# Knowledge Graph
 
-# Conclusion
-
-TO-DO
+[RDF](https://github.com/GaiaPizzuti/KGE-project/blob/main/Phase%205%20-%20Data%20Definition/RDFs/all_data.brf)
