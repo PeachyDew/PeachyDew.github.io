@@ -16,13 +16,12 @@
 The GitHub repository can be found [here](https://github.com/GaiaPizzuti/KGE-project).
 
 **Report**
-TO-DO
-The report of this project can be found [here]()
 
+The report of this project can be found [here](https://github.com/GaiaPizzuti/KGE-project/blob/main/Documentation/KGE___Project_Report.pdf)
 
 **Presentation slides**
-TO-DO
-The presentation of this project can be found [here]()
+
+The presentation of this project can be found [here](https://github.com/GaiaPizzuti/KGE-project/blob/main/Documentation/Digital%20University%20Project.pptx)
 
 
 
